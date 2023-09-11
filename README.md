@@ -2,3 +2,5 @@
 PROJECT TITLE: Recommendation System
 PURPOSE OF PROJECT: Capstone project created under Duke university 
 VERSION or DATE: 1.0
+https://www.dukelearntoprogram.com//capstone/recommender.php?id=ad2pwnFfGq6Oy5
+![image](https://github.com/anikets33/Recommendation-system/assets/40911354/b513a9c7-aba6-478e-b27d-3b2b8ea95b13)
